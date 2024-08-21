@@ -1,0 +1,2 @@
+# Comprehensive-Analysis-of-Games-Insights-by-Genre-Platform-and-Time
+This Power BI project provides a detailed analysis of video games, focusing on user ratings, platform popularity, and genre insights. By examining various aspects such as average user ratings by platform, top-rated games, genre popularity, and trends over time, the report aims to offer comprehensive insights into the gaming industry.
